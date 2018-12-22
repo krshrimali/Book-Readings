@@ -12,4 +12,5 @@ Well, there have been times where I've had ideas but didn't know how to implemen
 ## Daily Goals -
 
 1. Started from December 16th 2018. Learnt Basics, Tensors. Completed till Chapter 2
-2. Updates - Now on Chapter 3, (December 20 '18). Goal to complete Chapter 4, (by December 21 '18).
+2. Updates(20th December '18) - Now on Chapter 3, (December 20 '18). Goal to complete Chapter 4, (by December 21 '18).
+3. Updates(21st December '18) - Now on Chapter 5, completed Chapter 3 and Chapter 4. Goal to complete Chapter 5 today.
