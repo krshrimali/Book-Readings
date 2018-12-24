@@ -14,4 +14,5 @@ Well, there have been times where I've had ideas but didn't know how to implemen
 1. Started from December 16th 2018. Learnt Basics, Tensors. Completed till Chapter 2
 2. Updates(20th December '18) - Now on Chapter 3, (December 20 '18). Goal to complete Chapter 4, (by December 21 '18).
 3. Updates(21st December '18) - Now on Chapter 5, completed Chapter 3 and Chapter 4. Goal to complete Chapter 5 today.
-4. Updates(22nd December '18) - Completed Chapter 6. Goal to complete Chapter 6 by 23rd December '18.
+4. Updates(22nd December '18) - Completed Chapter 5. Goal to complete Chapter 6 by 23rd December '18.
+5. Updates(23rd December '18) - I got lazy studying Chapter 6 - Deep Learning for NLP, too much of basics. Completed them though. Goal to complete Chapter 7 by 24th December
