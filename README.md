@@ -16,3 +16,4 @@ Well, there have been times where I've had ideas but didn't know how to implemen
 3. Updates(21st December '18) - Now on Chapter 5, completed Chapter 3 and Chapter 4. Goal to complete Chapter 5 today.
 4. Updates(22nd December '18) - Completed Chapter 5. Goal to complete Chapter 6 by 23rd December '18.
 5. Updates(23rd December '18) - I got lazy studying Chapter 6 - Deep Learning for NLP, too much of basics. Completed them though. Goal to complete Chapter 7 by 24th December
+6. Updates(28th December '18) - Completed Book! <3 
