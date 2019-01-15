@@ -17,3 +17,11 @@ Well, there have been times where I've had ideas but didn't know how to implemen
 4. Updates(22nd December '18) - Completed Chapter 5. Goal to complete Chapter 6 by 23rd December '18.
 5. Updates(23rd December '18) - I got lazy studying Chapter 6 - Deep Learning for NLP, too much of basics. Completed them though. Goal to complete Chapter 7 by 24th December
 6. Updates(28th December '18) - Completed Book! <3 
+
+## Projects
+
+Now starting small projects to get hands on PyTorch.
+
+1. Feed Forward NN: Completed Jan 15 2019
+    * Reference: https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/01-basics/feedforward_neural_network
+
