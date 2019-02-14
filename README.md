@@ -24,4 +24,5 @@ Now starting small projects to get hands on PyTorch.
 
 1. Feed Forward NN: Completed Jan 15 2019
     * Reference: https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/01-basics/feedforward_neural_network
-
+2. Face Recognition (Under Progress)
+3. Linear Regression (Using PyTorch vs Scikit-Learn)
