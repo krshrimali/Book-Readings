@@ -26,4 +26,4 @@ class Network(nn.Module):
         self.convs = []
         self.convs.append(ConvLayer(NUM_CHANNELS, 32, kernel_size=5))
         self.convs.append(ConvLayer(32, 64, kernel_size=5))
-        
+        conv_output_size, _ = get_convert_output_size( # to be contd

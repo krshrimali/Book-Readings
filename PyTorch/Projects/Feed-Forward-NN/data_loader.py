@@ -2,8 +2,8 @@ import torch, torchvision
 import torch.nn as nn
 import torchvision.transforms as transforms
 
-# device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 batch_size = 100
+
 def load_data():
     train_dataset = torchvision.datasets.MNIST(root='data/', \
             train=True, transform=transforms.ToTensor(), download=True)
